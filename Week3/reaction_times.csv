@@ -1,0 +1,61 @@
+PARTICIPANT	WORD	FREQUENCIES	REACTION_TIMES	OUTLIER_STATUS
+1	SHARE	11,86	347	not outlier
+1	INSTANCE	69,08	570	not outlier
+1	EARTH	35,37	351	not outlier
+1	FRIENDLY	12,92	NA	not outlier
+1	BAIT	91,51	611	not outlier
+1	BEHIND	123,53	671	not outlier
+1	ESTEEM	1,69	364	not outlier
+1	ACTOR	16,78	101	outlier
+1	ACTION	509,37	518	not outlier
+1	BREATH	27,02	670	not outlier
+1	ADVICE	11,86	548	not outlier
+1	ENVY	69,08	424	not outlier
+1	GOODBYE	35,37	312	not outlier
+1	HORROR	12,92	400	not outlier
+1	DISTANCE	91,51	267	outlier
+1	DRAIN	123,53	301	not outlier
+1	DISHES	1,69	494	not outlier
+1	ALARM	16,78	491	not outlier
+1	ALONE	509,37	403	not outlier
+1	ALWAYS	27,02	650	not outlier
+2	SHARE	11,86	437	not outlier
+2	INSTANCE	69,08	NA	not outlier
+2	EARTH	35,37	668	not outlier
+2	FRIENDLY	12,92	648	not outlier
+2	BAIT	91,51	805	outlier
+2	BEHIND	123,53	367	not outlier
+2	ESTEEM	1,69	721	outlier
+2	ACTOR	16,78	450	not outlier
+2	ACTION	509,37	500	not outlier
+2	BREATH	27,02	658	not outlier
+2	ADVICE	11,86	569	not outlier
+2	ENVY	69,08	776	outlier
+2	GOODBYE	35,37	504	not outlier
+2	HORROR	12,92	120	outlier
+2	DISTANCE	91,51	542	not outlier
+2	DRAIN	123,53	135	outlier
+2	DISHES	1,69	685	not outlier
+2	ALARM	16,78	NA	not outlier
+2	ALONE	509,37	409	not outlier
+2	ALWAYS	27,02	564	not outlier
+3	SHARE	11,86	355	not outlier
+3	INSTANCE	69,08	357	not outlier
+3	EARTH	35,37	444	not outlier
+3	FRIENDLY	12,92	662	not outlier
+3	BAIT	91,51	692	not outlier
+3	BEHIND	123,53	418	not outlier
+3	ESTEEM	1,69	464	not outlier
+3	ACTOR	16,78	167	outlier
+3	ACTION	509,37	350	not outlier
+3	BREATH	27,02	185	outlier
+3	ADVICE	11,86	547	not outlier
+3	ENVY	69,08	NA	not outlier
+3	GOODBYE	35,37	311	not outlier
+3	HORROR	12,92	383	not outlier
+3	DISTANCE	91,51	444	not outlier
+3	DRAIN	123,53	540	not outlier
+3	DISHES	1,69	658	not outlier
+3	ALARM	16,78	265	outlier
+3	ALONE	509,37	351	not outlier
+3	ALWAYS	27,02	NA	not outlier

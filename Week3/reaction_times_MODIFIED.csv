@@ -1,0 +1,61 @@
+PARTICIPANT	WORD	FREQUENCIES	REACTION_TIMES	OUTLIER_STATUS	V6	NEW_COLUMN
+1	ACTION	509.37	518	not outlier	NA	Male
+2	ACTION	509.37	500	not outlier	NA	Female
+3	ACTION	509.37	350	not outlier	NA	Female
+2	ACTOR	16.78	450	not outlier	NA	Female
+2	ADVICE	11.86	569	not outlier	NA	Female
+1	ADVICE	11.86	548	not outlier	NA	Female
+3	ADVICE	11.86	547	not outlier	NA	Male
+1	ALARM	16.78	491	not outlier	NA	Male
+2	ALARM	16.78	NA	not outlier	NA	Female
+2	ALONE	509.37	409	not outlier	NA	Male
+1	ALONE	509.37	403	not outlier	NA	Female
+3	ALONE	509.37	351	not outlier	NA	Female
+1	ALWAYS	27.02	650	not outlier	NA	Female
+2	ALWAYS	27.02	564	not outlier	NA	Female
+3	ALWAYS	27.02	NA	not outlier	NA	Male
+3	BAIT	91.51	692	not outlier	NA	Male
+1	BAIT	91.51	611	not outlier	NA	Female
+1	BEHIND	123.53	671	not outlier	NA	Male
+3	BEHIND	123.53	418	not outlier	NA	Female
+2	BEHIND	123.53	367	not outlier	NA	Female
+2	BREATH	27.02	658	not outlier	NA	Male
+2	DISHES	1.69	685	not outlier	NA	Female
+3	DISHES	1.69	658	not outlier	NA	Male
+1	DISHES	1.69	494	not outlier	NA	Female
+2	DISTANCE	91.51	542	not outlier	NA	Female
+3	DISTANCE	91.51	444	not outlier	NA	Female
+3	DRAIN	123.53	540	not outlier	NA	Female
+1	DRAIN	123.53	301	not outlier	NA	Female
+2	EARTH	35.37	668	not outlier	NA	Female
+3	EARTH	35.37	444	not outlier	NA	Female
+1	EARTH	35.37	351	not outlier	NA	Male
+1	ENVY	69.08	424	not outlier	NA	Male
+3	ENVY	69.08	NA	not outlier	NA	Female
+3	ESTEEM	1.69	464	not outlier	NA	Female
+1	ESTEEM	1.69	364	not outlier	NA	Female
+3	FRIENDLY	12.92	662	not outlier	NA	Female
+2	FRIENDLY	12.92	648	not outlier	NA	Male
+1	FRIENDLY	12.92	NA	not outlier	545	Female
+2	GOODBYE	35.37	504	not outlier	NA	Male
+1	GOODBYE	35.37	312	not outlier	NA	Female
+3	GOODBYE	35.37	311	not outlier	NA	Female
+1	HORROR	12.92	400	not outlier	NA	Female
+3	HORROR	12.92	383	not outlier	NA	Male
+1	INSTANCE	69.08	570	not outlier	NA	Female
+3	INSTANCE	69.08	357	not outlier	NA	Male
+2	INSTANCE	69.08	NA	not outlier	NA	Female
+2	SHARE	11.86	437	not outlier	NA	Male
+3	SHARE	11.86	355	not outlier	NA	Female
+1	SHARE	11.86	347	not outlier	NA	Female
+3	ACTOR	16.78	167	outlier	NA	Male
+1	ACTOR	16.78	101	outlier	NA	Female
+3	ALARM	16.78	265	outlier	NA	Female
+2	BAIT	91.51	805	outlier	NA	Female
+3	BREATH	27.02	185	outlier	NA	Female
+1	DISTANCE	91.51	267	outlier	NA	Male
+2	DRAIN	123.53	135	outlier	NA	Male
+2	ENVY	69.08	776	outlier	NA	Female
+2	ESTEEM	1.69	721	outlier	NA	Male
+2	HORROR	12.92	120	outlier	NA	Female
+545	NA	NA	545	NA	545	Female
